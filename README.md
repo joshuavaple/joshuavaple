@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning aspects of cloud-based ML and software engineering to support ML application development and depoloyment
 - 💞️ I’m looking to collaborate on anything data and ML related
 - 📫 How to reach me - LinkedIn and Medium:
-  -   https://www.linkedin.com/in/levuanhphuong/
+  -   https://www.linkedin.com/in/joshua3112/
   -   https://medium.com/@joshuale
 
 <!---
